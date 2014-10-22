@@ -17,7 +17,5 @@
   },
   "extra": {
     "installer-name": "wp-event-post-type-v0.5"
-  },
-  "dist": { "url": "https://github.com/wpCloud/wp-event-post-type/archive/0.5.0.zip", "type": "zip" },
-  "source": { "url": "git@github.com:wpCloud/wp-event-post-type", "type": "git", "reference": "0.5.0" }
+  }
 }
